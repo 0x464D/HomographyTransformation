@@ -1,6 +1,7 @@
 # HomographyTransformation
 
 Made for "Iulian Munteanu". Good Luck!
+
 author: freddy.meza.alfaro@gmail.com
 
 This project uses **homography transformation** to warp a flat image so that it fits into a distorted quadrilateral shape — such as when projecting onto a table or viewing a flat object from an angle.
@@ -33,3 +34,7 @@ Run it as follow:
 ```
 python transform.py
 ```
+
+If you found this project useful:
+- ⭐ Give it a star on GitHub
+- ☕ Or [buy me a coffee](https://coff.ee/freddymezai) to support future work!
